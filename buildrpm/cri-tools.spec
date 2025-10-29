@@ -30,6 +30,8 @@ cri-tools are a utilities for Kubelet Container Runtime Interface runtimes, such
 %build
 mkdir -p _output/src/github.com/kubernetes-incubator/
 ln -s `pwd` _output/src/github.com/kubernetes-incubator/cri-tools
+export GOFLAGS="-trimpath=false"
+export GO_LDFLAGS="-X main.VERSION=v%{version}"
 make binaries
 
 %install
