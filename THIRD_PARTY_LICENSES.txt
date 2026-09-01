@@ -1047,28 +1047,7 @@ github.com/pb33f/ordered-map/v2
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2019 Jean Rouge rougej+github@gmail.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Jean Rouge jean@stripe.com
-Copyright 2020 Sergey Vilgelm sergey.vilgelm@ibm.com
-Copyright 2022 Albert Wolszon albert.wolszon@leancode.pl
-Copyright 2022 GitHub noreply@github.com
-Copyright 2022 Jean Rouge rougej+github@gmail.com
-Copyright 2022 Kusakabe Si si@kskb.eu.org
-Copyright 2022 Pierre Fenoll pierrefenoll@gmail.com
-Copyright 2022 xiegeo george@xiegeo.com
-Copyright 2023 GitHub noreply@github.com
-Copyright 2023 Jean Rouge rougej+github@gmail.com
-Copyright 2023 Manuel Odendahl wesen@ruinwesen.com
-Copyright 2024 GitHub noreply@github.com
-Copyright 2024 Richard Kettelerij richard@mindloops.nl
-Copyright 2024 Tristan Cartledge tristan@speakeasyapi.dev
-Copyright 2024 WilliamFrei william@edumail.at
-Copyright 2025 GitHub noreply@github.com
-Copyright 2025 Oleksandr Redko oleksandr.red+github@gmail.com
-Copyright 2025 quobix dave@quobix.com
-Copyright 2026 GitHub noreply@github.com
-Copyright 2026 Wei Kang weikangchia@gmail.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1154,7 +1133,28 @@ go.opentelemetry.io/auto/sdk
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2019 Jean Rouge rougej+github@gmail.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Jean Rouge jean@stripe.com
+Copyright 2020 Sergey Vilgelm sergey.vilgelm@ibm.com
+Copyright 2022 Albert Wolszon albert.wolszon@leancode.pl
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Jean Rouge rougej+github@gmail.com
+Copyright 2022 Kusakabe Si si@kskb.eu.org
+Copyright 2022 Pierre Fenoll pierrefenoll@gmail.com
+Copyright 2022 xiegeo george@xiegeo.com
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Jean Rouge rougej+github@gmail.com
+Copyright 2023 Manuel Odendahl wesen@ruinwesen.com
+Copyright 2024 GitHub noreply@github.com
+Copyright 2024 Richard Kettelerij richard@mindloops.nl
+Copyright 2024 Tristan Cartledge tristan@speakeasyapi.dev
+Copyright 2024 WilliamFrei william@edumail.at
+Copyright 2025 GitHub noreply@github.com
+Copyright 2025 Oleksandr Redko oleksandr.red+github@gmail.com
+Copyright 2025 quobix dave@quobix.com
+Copyright 2026 GitHub noreply@github.com
+Copyright 2026 Wei Kang weikangchia@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
