@@ -11,7 +11,7 @@
 
 Name:      cri-tools
 Version:   1.35.0
-Release:   1%{?dist}
+Release:   2%{?dist}
 Vendor:    Oracle America
 Summary:   CLI tool for Kubelet Container Runtime Interface
 Group:     Development/Tools
@@ -51,5 +51,8 @@ make install BINDIR=%{buildroot}/usr/bin
 /usr/bin/critest
 
 %changelog
+* Thu Oct 08 2026 Oracle Cloud Native Environment Authors <noreply@oracle.com> - 1.35.0-2
+- Update Kubernetes 1.35 dependencies and coordinated runtime libraries
+
 * Wed Dec 10 2025 Oracle Cloud Native Environment Authors <noreply@oracle.com> - 1.35.0-1
 - Added Oracle Specific Build Files for cri-tools
